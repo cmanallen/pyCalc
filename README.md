@@ -15,8 +15,10 @@ This calculator can handle all of the follow operators:
 7. )
 
 This calculator preserves the order of operations.
-So: > 10 * ( 5 + 5 ) =/= 55
-And: > 10 + 5 * 5 =/= 75
+So: 
+> 10 * ( 5 + 5 ) =/= 55
+And: 
+> 10 + 5 * 5 =/= 75
 
 When using the calculator you must space seperate your values.  E.g. ( 5 + 5 ) or ( 1 * 2 - ( 3 + 4 ) / 5 ).
 
