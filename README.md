@@ -6,13 +6,13 @@ If you have need of a simple Python calculator.  Type "python" into your termina
 This project is just a test at creating algorithms and performing stack operations.
 
 This calculator can handle all of the follow operators:
->> +
->> -
->> /
->> *
->> ^
->> (
->> )
+> +
+> -
+> /
+> *
+> ^
+> (
+> )
 
 This calculator preserves the order of operations.
 So: 10 * ( 5 + 5 ) =/= 55
