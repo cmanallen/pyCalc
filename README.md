@@ -5,19 +5,19 @@ This project is just a test at creating algorithms and performing stack operatio
 
 This calculator can handle all of the follow operators:
 
-1. +
+1. "+"
 
-2. -
+2. "-"
 
-3. /
+3. "/"
 
-4. *
+4. "*"
 
-5. ^
+5. "^"
 
-6. (
+6. "("
 
-7. )
+7. ")"
 
 
 This calculator preserves the order of operations.
